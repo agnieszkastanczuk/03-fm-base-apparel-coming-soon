@@ -31,7 +31,7 @@ Desktop:
 ![](./screenshot/screencapture-asd-fm-coming-soon.png)
 
 Mobile:
-![](./screenshot/screencapture-asd-fm-coming-soon-mobile.png)
+<br> ![](./screenshot/screencapture-asd-fm-coming-soon-mobile.png)
 
 ## My process
 
